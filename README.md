@@ -1,14 +1,15 @@
 
 # CalCharm CLI 
 
-A robust command-line calculator for Win32 and Linux(beta)
+A robust CLI calculator for specially for programmers, and CLI users !!
 
 ## Top Features
 
-- Command Line
-- Super Fast
+- Command Line Interface, with ease of using it
+- Take less memory as its written in C++
+- Works on older version of Windows too, i.e Windows 7 or XP, including Cracked Windows Version, sold on market over th years..
 
-## How to Install for Windows
+## How to Setup CalCharm for Windows
 
 > * Clone the Repository
 
@@ -18,9 +19,9 @@ git clone https://github.com/Dwijottam-Dutta/CalCharm-CLI.git
 
 > * Go to build folder, and copy the CalCharm Folder
 
-> * Paste it in a favorable folder, like Program Folder
+> * Paste it in a anywhere, on any partition you like. Just make sure, it should not be deleted.. The recommended location is "Program Files" folder on your windows..
 
-> * Copy path of the exe file in the folder, and set it as System Environment Variable
+> * Copy path of the folder where the calcharm.exe is located.. And set it as System Environment 
 
 > * Take help about System Environment:
 
